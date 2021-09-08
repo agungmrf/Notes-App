@@ -11,7 +11,7 @@ Notes taking app implementing MVVM pattern, LiveData, Room Database, Navigation 
 - Search View
 - DeffUtil & Data Binding with  RecyclerView
 
-Add Notes to Notes App
+<h1>Add Notes to Notes App</h1>
 
 ![Add](https://user-images.githubusercontent.com/58428980/132494313-b756f013-7b18-44a5-add6-aab5dbcdba92.PNG)
 ![Save](https://user-images.githubusercontent.com/58428980/132494325-69c2f27e-d639-4a35-a14d-d7ff0f7aa6db.PNG)
