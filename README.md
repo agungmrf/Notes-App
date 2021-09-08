@@ -13,8 +13,7 @@ Notes taking app implementing MVVM pattern, LiveData, Room Database, Navigation 
 
 <h3>Add Notes to Notes App</h3>
 
-![Add](https://user-images.githubusercontent.com/58428980/132494313-b756f013-7b18-44a5-add6-aab5dbcdba92.PNG)
-![Save](https://user-images.githubusercontent.com/58428980/132494325-69c2f27e-d639-4a35-a14d-d7ff0f7aa6db.PNG)
+https://user-images.githubusercontent.com/58428980/132495873-1e54fa3f-54ca-4258-ad84-f491e81311ad.mp4
 
 <h3>Update Notes</h3>
 
